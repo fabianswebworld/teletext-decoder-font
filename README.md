@@ -4,9 +4,9 @@ I created this font (Teletext Decoder Regular) for use in the 'ttxweb' teletext-
 
 In this repo, I will share the FontForge project file for the TTF file (Teletext Decoder Regular).
 
-Licensed under the Creative Commons Attribution Share Alike License (CC-BY-SA). Feel free to edit.
+Licensed under the SIL Open Font License 1.1. Feel free to edit.
 
 Note that for shipping with ttxweb, I further slimmed down the TTF file after exporting it with FontForge, mainly by limiting it to the following glyph ranges:
-02C0-02DF, 2010-266F
+0000-061F, 2010-266F
 
 Have fun teletexting!
