@@ -1,3 +1,9 @@
+2.0
+
+- Re-scaled all glyphs to align to the same raster
+- Added more glyphs for Central European languages
+- Added "musical note" glyph
+
 1.6
 
 - Align glyph widths
