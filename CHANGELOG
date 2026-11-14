@@ -3,6 +3,7 @@
 - Fixed some glyph points still being off-grid after scaling
 - Fixed vertical scaling
 - Removed some unneccessary curve definitions
+- Reduced unneccessary FFTM table and glyph names from TTF file
 - Fixed OS2 Panose settings to correctly indicate monospaced
 
 2.0
