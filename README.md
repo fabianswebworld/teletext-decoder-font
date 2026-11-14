@@ -8,7 +8,4 @@ Licensed under the SIL Open Font License 1.1. Feel free to edit.
 
 The openSUSE 'tv-fonts' package was originally licensed under the MIT license, which is why the text of the MIT license is included in the [MIT](MIT) file.
 
-Note that for shipping with ttxweb, I further slimmed down the TTF file after exporting it with FontForge, mainly by limiting it to the following glyph ranges:
-0000-061F, 2010-266F
-
 Have fun teletexting!

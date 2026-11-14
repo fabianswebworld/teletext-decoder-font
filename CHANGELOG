@@ -1,3 +1,10 @@
+2.1
+
+- Fixed some glyph points still being off-grid after scaling
+- Fixed vertical scaling
+- Removed some unneccessary curve definitions
+- Fixed OS2 Panose settings to correctly indicate monospaced
+
 2.0
 
 - Re-scaled all glyphs to align to the same raster
